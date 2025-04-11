@@ -20,9 +20,9 @@ Installation
    pip3 install pygame
 4. Move unzipped file to desktop
 5. On terminal:
-   cd ~/Desktop/main
+   cd ~/Desktop/Minimax-Tic-tac-toe-main
    python3 minimax.py
-6. On cmd cd C:\Users\[YourUsername]\Desktop\main
+6. On cmd cd C:\Users\[YourUsername]\Desktop\Minimax-Tic-tac-toe-main
    python3 minimax.py
 
 Thank you!
