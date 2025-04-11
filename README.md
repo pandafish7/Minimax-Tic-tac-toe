@@ -20,9 +20,9 @@ Installation
    pip3 install pygame
 4. Move unzipped file to desktop
 5. On terminal:
-   cd ~/Desktop/IRP
+   cd ~/Desktop/main
    python3 minimax.py
-6. On cmd cd C:\Users\[YourUsername]\Desktop\IRP
+6. On cmd cd C:\Users\[YourUsername]\Desktop\main
    python3 minimax.py
 
 Thank you!
